@@ -1,7 +1,6 @@
 ---
 label: Content
 hide_body: false
-is_partial: true
 fields:
 - name: title
   label: Title
